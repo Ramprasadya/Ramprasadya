@@ -3,7 +3,7 @@
 <img align="right" alt="Coder GIF" height=310 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 - 🔭 <a href="https://dmassociates.in" >I’m currently working on **DMA Website ** </a>
 
-- 🌱 I’m currently Working on **Next js 14**
+- 🌱 I’m currently Working on **Next js 15**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ramprasad.vercel.app/](https://portfolio-ramprasad.vercel.app/)
 
