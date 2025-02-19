@@ -24,6 +24,8 @@
 
 ## GitHub Stats
 
-![Ramprasadya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramprasadya&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasadya&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-around; ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasadya&layout=compact&theme=radical" alt="Top Langs" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasadya&show_icons=true&theme=radical" alt="Ramprasadya's GitHub stats" style="width: 45%;" />
+  
+</div>
