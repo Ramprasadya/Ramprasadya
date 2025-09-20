@@ -37,15 +37,7 @@
 
 ---
 
-### 🔗 Connect with Me
 
-<p align="center">
-  <a href="mailto:yadavramprasad563@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ramprasad-yadav-7761b7242/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://portfolio-ramprasad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
----
 
 ## 💻 Tech Stack
 
@@ -109,6 +101,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ramprasadya&theme=radical&hide_border=true&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 -->
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:yadavramprasad563@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ramprasad-yadav-7761b7242/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-ramprasad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
 
 
 
