@@ -29,3 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ramprasadya&show_icons=true&theme=radical" alt="Ramprasadya's GitHub stats" style="width: 45%;" />
   
 </div>
+
+<div align="center" >
+  ![snake gif](https://github.com/Ramprasadya/Ramprasadya/blob/output/github-snake-dark.svg)
+</div>
