@@ -19,21 +19,23 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react" />
 </p>
 
-<!-- Coder GIF -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coder GIF" width="400" />
-</p>
+
 
 ---
 
 ### 🚀 About Me
+<img align="right" alt="Coder GIF" height=310 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+- 🔭 <a href="https://dmassociates.in" >I’m currently working on **My Personal Project** </a>
 
-- 🔭 I’m currently working on <a href="https://dmassociates.in" target="_blank"><b>My Personal Project</b></a>
-- 🌱 Exploring **Next.js 15** and modern web tech
-- 👨‍💻 Check out my projects at [portfolio-ramprasad.vercel.app](https://portfolio-ramprasad.vercel.app/)
-- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, MongoDB**
-- 📫 Reach me at **yadavramprasad563@gmail.com**
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1BgZ7DFokKFOWIP3gsNVzN8LVY-dEpGTz/view?usp=sharing)
+- 🌱 I’m currently Working on **Next js 15**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-ramprasad.vercel.app/](https://portfolio-ramprasad.vercel.app/)
+
+- 💬 Ask me about **React js, Next js, Node js, Express js, MongoDB**
+
+- 📫 How to reach me **yadavramprasad563@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BgZ7DFokKFOWIP3gsNVzN8LVY-dEpGTz/view?usp=sharing](https://drive.google.com/file/d/1BgZ7DFokKFOWIP3gsNVzN8LVY-dEpGTz/view?usp=sharing)
 
 ---
 
