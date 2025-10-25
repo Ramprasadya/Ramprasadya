@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ramprasad.vercel.app/](https://portfolio-ramprasad.vercel.app/)
 
-- 💬 Ask me about **Javascript, Typescript, React js, Next js, Node js, Express js, MongoDB, **
+- 💬 Ask me about **Javascript, Typescript, React.js, Next.js, Node.js, Express.js, MongoDB, **
 
 - 📫 How to reach me **yadavramprasad563@gmail.com**
 
