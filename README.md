@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently Working on **Next js 16**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ramprasad.vercel.app/](https://portfolio-ramprasad.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ramprasad.site](https://ramprasad.site)
 
 - 💬 Ask me about **Javascript, Typescript, React.js, Next.js, Node.js, Express.js, MongoDB, python, ReactNative**
 
