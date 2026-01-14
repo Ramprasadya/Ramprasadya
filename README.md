@@ -5,7 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=Ramprasadya&color=1D9BF0&label=Profile%20Views&style=for-the-badge" alt="Profile Views" height="40" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7931E&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I%27m+Ramprasad+Yadav;%F0%9F%9A%80+Full-Stack+Developer+from+India" alt="Typing SVG" />
 </p>
