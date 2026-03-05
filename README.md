@@ -24,7 +24,7 @@
 <img align="right" alt="Coder GIF" height=310 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 - 🔭 <a href="https://dmassociates.in" >I’m currently working on **E-commerce Fullstack Project** </a>
 
-- 🌱 I’m currently Working on **Next js latest version**
+- 🌱 I’m currently Working on **Next js 16 latest version**
 
 - 👨‍💻 All of my projects are available at [https://ramprasad.site](https://ramprasad.site)
 
