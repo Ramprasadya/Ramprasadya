@@ -10,11 +10,6 @@
 </p>
 
 
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-India-orange?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react" />
-</p> -->
 
 
 
