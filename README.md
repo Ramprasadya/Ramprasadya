@@ -96,11 +96,3 @@
 -->
 
 
-
-
----
-
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/Ramprasadya/Ramprasadya/output/github-snake-dark.svg" alt="Snake Animation" />
-</div> -->
-
